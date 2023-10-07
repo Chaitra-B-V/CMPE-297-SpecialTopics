@@ -22,9 +22,9 @@ Assignemt 2
 
 Implemented the below three deep learning models using Github Copilot Chat
 
-MNIST dataset Classification : https://colab.research.google.com/drive/11ALK7BRHj0gV2IAnfiwFuglDENdpYPok?authuser=1#scrollTo=cp0SFNoooOIi
-Text Sentiment Analysis on IMDB reviews dataset : https://colab.research.google.com/drive/1Hvsxn4FLtP5YdBf-Hdhp3CxfdvD-qsHM?authuser=1#scrollTo=N9qy3zpBszv0
-Image Classification for MNIST_fashion dataset : https://colab.research.google.com/drive/1I3-Qkrwx6EunglTH2ji2twVkTj4qH23o?authuser=1#scrollTo=khSs9GmFtEby
+MNIST dataset Classification 
+Text Sentiment Analysis on IMDB reviews dataset 
+Image Classification for MNIST_fashion dataset 
 The prompts that I have used are as below
 
 • Write a deep neural network in keras to classify MNIST dataset. Also take some example inputs and show results
