@@ -12,3 +12,8 @@ Medium Article - https://medium.com/@curious_happy_mind/analysis-of-world-popula
 
 Visualization:
 
+![image](https://github.com/Chaitra-B-V/CMPE-297-SpecialTopics/assets/112594201/ccb6b27b-40fd-4a3e-8ec3-6892946319ed)
+
+![image](https://github.com/Chaitra-B-V/CMPE-297-SpecialTopics/assets/112594201/f5011526-e251-4b2c-bcb8-acff961b8b35)
+
+![image](https://github.com/Chaitra-B-V/CMPE-297-SpecialTopics/assets/112594201/ce38b9d2-07c1-4840-a0eb-819f49076ecc)
