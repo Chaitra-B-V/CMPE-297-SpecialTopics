@@ -17,3 +17,22 @@ Visualization:
 ![image](https://github.com/Chaitra-B-V/CMPE-297-SpecialTopics/assets/112594201/f5011526-e251-4b2c-bcb8-acff961b8b35)
 
 ![image](https://github.com/Chaitra-B-V/CMPE-297-SpecialTopics/assets/112594201/ce38b9d2-07c1-4840-a0eb-819f49076ecc)
+
+Assignemt 2
+
+Implemented the below three deep learning models using Github Copilot Chat
+
+MNIST dataset Classification : https://colab.research.google.com/drive/11ALK7BRHj0gV2IAnfiwFuglDENdpYPok?authuser=1#scrollTo=cp0SFNoooOIi
+Text Sentiment Analysis on IMDB reviews dataset : https://colab.research.google.com/drive/1Hvsxn4FLtP5YdBf-Hdhp3CxfdvD-qsHM?authuser=1#scrollTo=N9qy3zpBszv0
+Image Classification for MNIST_fashion dataset : https://colab.research.google.com/drive/1I3-Qkrwx6EunglTH2ji2twVkTj4qH23o?authuser=1#scrollTo=khSs9GmFtEby
+The prompts that I have used are as below
+
+• Write a deep neural network in keras to classify MNIST dataset. Also take some example inputs and show results
+
+• Implement a deep learning model for Text Sentiment Analysis with Recurrent Neural Networks (RNN) for IMDB movie reviews
+
+• Build a deep learning model for Image Classification with Convolutional Neural Networks (CNN) for the MNIST FASHION dataset
+
+![image](https://github.com/Chaitra-B-V/CMPE-297-SpecialTopics/assets/112594201/299ae393-95fd-4737-bce9-c0aae0ba7462)
+![image](https://github.com/Chaitra-B-V/CMPE-297-SpecialTopics/assets/112594201/67c74bf5-6af5-455e-9f7f-e7450873bbb2)
+![image](https://github.com/Chaitra-B-V/CMPE-297-SpecialTopics/assets/112594201/f96ebc47-975d-4e68-8f52-0b313c4af5e4)
