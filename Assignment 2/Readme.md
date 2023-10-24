@@ -29,3 +29,5 @@ Web app for prompt library with prompt search (use pinecone langchain library) -
 This application uses Pinecone langchain, html, python and flask.
 
 Code: gpt_prompt_library directory above
+
+![Screenshot 2023-10-23 at 10 44 50 PM](https://github.com/Chaitra-B-V/CMPE-297-SpecialTopics/assets/112594201/9f1deeef-8dd4-4018-8d35-f6c5bcab2f09)
