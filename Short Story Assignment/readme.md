@@ -5,7 +5,7 @@ provides an in-depth analysis of the advancements in Large Language Models (LLMs
 medium article: https://medium.com/@curious_happy_mind/deciphering-the-world-of-large-language-models-insights-and-innovations-7fc775d69e2e
 
 
-slides: Attached PPT in the github
+slides: https://docs.google.com/presentation/d/10u9oO2gN97AFAYYaEQlBuP7o8t2u0hxJ/edit?usp=sharing&ouid=103663966554730930942&rtpof=true&sd=true
 
 Youtube Demo: https://youtu.be/ygrpMX925Rs
 
